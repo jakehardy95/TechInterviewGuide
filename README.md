@@ -1,5 +1,5 @@
 # TechInterviewGuide
-This is a definitive/general guide for technical interviews in most big companies
+This is a short definitive/general guide for technical interviews in most big companies
 
 
 **Study material before applying/interviewing for jobs**
