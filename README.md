@@ -23,4 +23,11 @@ This is a longer list of leetcode questions if you wish to have further practice
 
 This is another resource that goes very in depth about technical interviews and what you should know in order to ace technical interviews. 
 
+**[levels.fyi](heeps://www.levels.fyi/)**
+
+If you want to look at salaries for almost every big company and know your worth for software engineering, check this site out. This is real and verified salaries from software engineers at all companies listed on the site.
+The site requires pdfs of your offer letter verifying your salary for your respective level (IE new grad, swe 1, swe 2, senior swe, etc.). Each company has different levels but they are very similar. 
+
 If you want anything else added to this repo, feel free to let me know or do a pull request. This is to help out new grad computer science majors and those not in their senior years looking for internships as well. 
+
+
