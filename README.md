@@ -28,6 +28,11 @@ This is another resource that goes very in depth about technical interviews and 
 If you want to look at salaries for almost every big company and know your worth for software engineering, check this site out. This is real and verified salaries from software engineers at all companies listed on the site.
 The site requires pdfs of your offer letter verifying your salary for your respective level (IE new grad, swe 1, swe 2, senior swe, etc.). Each company has different levels but they are very similar. 
 
+
+**[System design](https://github.com/donnemartin/system-design-primer)**
+
+Most new grad SWE/SDE positions don't ask system design questions, but this is a great resource to study just in case. It's an in depth github repo someone made. Once you read through this, you should be ready for any sys design question at the new grad level (most sys design questions are low level).
+
 If you want anything else added to this repo, feel free to let me know or do a pull request. This is to help out new grad computer science majors and those not in their senior years looking for internships as well. 
 
 
